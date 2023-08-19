@@ -1,0 +1,5 @@
+1. Thread is thing that divide program for several parts, we can imagine thread like a employer, different performers working in parallel within a program
+2. Daemon thread is a thread that depends on other threads and has the lowest priority. If all other threads finish their work, the daemon thread will automatically shut down, even if it does not finish its work
+3. ExecutorService, ThreadPoolExecutor, ScheduledExecutorService, SingleThreadExecutor, CachedThreadPool
+4. Serialization is a process that convert object to bytecode. Deserialization is a process that convert bytecode to object
+5. SEVERE, WARNING, INFO, CONFIG, FINE, FINER, FINEST
