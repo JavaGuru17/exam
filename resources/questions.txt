@@ -1,0 +1,6 @@
+1.
+    - Thread nima?
+    - Daemon thread nima?
+    - Thread Executors turlarini yozing.
+    - Serialization bilan Deserializationning nima ?
+    - Log levellarni yozing.
